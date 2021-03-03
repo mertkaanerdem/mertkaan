@@ -2,7 +2,7 @@
 
 <img src="socialmedia/coding.gif" alt="Coding" width=200 height=200 align="right">
 
-## I'm a Learner, Developer, Communicator and Thinker
+## I'm a Learner, Developer, Communicator
 
 - I'm trying to learn everything about useful things / or useless _-sometimes-_
 - I have a bachelor degree in Journalism (Istanbul University | 2017)
