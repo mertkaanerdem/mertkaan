@@ -17,6 +17,7 @@
 <a href="https://www.twitter.com/mertkaanerdem" target="_blank"><img src="socialmedia/twitter.png" alt="Twitter" width="24"></a>
 <a href="https://www.instagram.com/mertkaanerdem" target="_blank"><img src="socialmedia/instagram.png" alt="Instagram" width="24"></a>
 <a href="https://open.spotify.com/artist/2NGfe9lWQSahIJaLKe5e8J?si=A2fuopwgRzC2D-Uvpwk14w" target="_blank"><img src="socialmedia/spotify.png" alt="Spotify" width="24"></a>
+<a href="https://www.youtube.com/channel/UCUw2YmBMUyh45dKYZ11Taog" target="_blank"><img src="socialmedia/youtube.png" alt="youtube" width="24"></a>
 
 #### Languages and Tools:
 
