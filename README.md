@@ -4,6 +4,7 @@
 
 ## I'm a Learner, Developer, Communicator
 
+- I am trying new things as a former lieutenant and a journalist
 - I'm trying to learn everything about useful things / or useless _-sometimes-_
 - I have a bachelor degree in Journalism (Istanbul University | 2017)
 - I have an associate degree in Web Design and Coding (Anadolu University | 2020)
