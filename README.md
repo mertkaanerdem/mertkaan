@@ -3,7 +3,7 @@
 
 <h4 align="center">
   
-  [Resume](https://techrez.io/resume/mehmet-mertkaan-erdem)
+  [Resume](https://techrez.io/resume/mertkaanerdem)
 
 </h4>
 
