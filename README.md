@@ -1,6 +1,12 @@
 <h1 align="center">Hi there, I'm Mertkaan Erdem</h1>
 <h3 align="center">I'm a Lifetime Learner, Developer, Communicator</h3>
 
+<h4 align="center">
+  
+  [Resume](https://techrez.io/resume/mehmet-mertkaan-erdem)
+
+</h4>
+
 <a  href="https://app.daily.dev/mertkaanerdem"><img align="right" src="https://api.daily.dev/devcards/e110d78696814c01b394aa3c3c145a7c.png?r=2rb" width="400" alt="Mertkaan Erdem's Dev Card"/></a>
 
 - **I am trying new things as a former lieutenant and a journalist**
