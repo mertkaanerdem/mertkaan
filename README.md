@@ -47,7 +47,7 @@
 <h3 align="center">📊GitHub Stats:</h3>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mertkaanerdem&theme=prussian&hide_border=true&include_all_commits=true&count_private=true" width="450"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mertkaanerdem&theme=prussian&hide_border=true&include_all_commits=true&count_private=true" width="350"/>
 
 <!-- <p align="left"  width="200" >
   
@@ -56,7 +56,7 @@
 </p> -->
 
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mertkaanerdem&theme=prussian&hide_border=true" width="450"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mertkaanerdem&theme=prussian&hide_border=true" width="350"/>
 
 
 <!-- <p align="center">
