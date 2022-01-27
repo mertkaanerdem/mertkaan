@@ -66,7 +66,7 @@
 </p> -->
 
 <h3  align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertkaanerdem&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertkaanerdem&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="350"/>
 </h3>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mertkaanerdem&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
